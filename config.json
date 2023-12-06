@@ -1,16 +1,16 @@
 {
     "TOKEN": "",
-    "ID": "",
-    "HASH": "",
+    "ID": "17249531",
+    "HASH": "b67965c13be2164d8a2bb6d035a1076a",
     "Laravel_Session": "",
     "XSRF_TOKEN": "",
-    "GDTot_Crypt": "",
+    "GDTot_Crypt": "aExlTFpScUloNk5PZzBBSVMvZDM5aXp1b1JTTFhYK2tYUFRDZVlyUEx2OD0%3D",
     "DCRYPT": "",
     "KCRYPT": "",
     "HCRYPT": "",
     "KATCRYPT": "",
     "UPTOBOX_TOKEN": "",
-    "TERA_COOKIE": "",
+    "TERA_COOKIE": "YSezvuMteHuiGy7BRRC5c5QhCanDTfm-nM1pQq2B",
     "CLOUDFLARE": "",
     "PORT": 5000
 }
